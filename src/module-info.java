@@ -1,0 +1,3 @@
+module Java8Sample {
+	
+}
